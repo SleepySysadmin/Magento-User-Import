@@ -1,7 +1,7 @@
 <?php
 
     // Global vars. Update to suit your needs
-    $CSVFile ='s4stagingusers.csv';
+    $CSVFile ='SampleImport.csv';
     $LoginPassword = 'Change123Me!';
 
     use Magento\Framework\App\Bootstrap;
