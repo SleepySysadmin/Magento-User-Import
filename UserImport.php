@@ -47,7 +47,7 @@
             echo $ex->getMessage();
         }    
         
-        echo "$Username was sucessfully created! \n"
+        echo "$Username was sucessfully created! \n";
 
     }
 
