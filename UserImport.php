@@ -45,6 +45,7 @@
     
         } catch (\Exception $ex) {
             echo $ex->getMessage();
+            echo "\n";
         }    
         
         echo "$Username was sucessfully created! \n";
